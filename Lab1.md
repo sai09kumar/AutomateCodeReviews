@@ -8,11 +8,14 @@ When you submit a pull request to a CodeGuru-associated code repository, such as
 2. Use CodeGuru to analyze code in a repository
 
 # Prerequisites
-1. Familiarity with the AWS console is helpful but not required
+Familiarity with the AWS console is helpful but not required
+   
 ![Alt text](start_4.webp)
+
 Enviornment Before
 
 ![Alt text](end_6.webp)
+
 Enviornment After
 
 ## First Step
