@@ -28,7 +28,7 @@ Navigating to AmazonCodeCommitrepository tab and checking java-web-app and makin
 
 ## Third Step
 
-Go to the codeguru repositories and click on ``` Associate Repository ``` and run analysis
+Go to the codeguru repositories and click on ```Associate Repository  and run analysis```
 
 Select AWS Code Commit and give repository location as java-web-app and select source branch as master
 
