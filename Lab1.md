@@ -22,13 +22,13 @@ Enviornment After
 Setting up the lab and selecting the ``` US West (Oregon) us-west-2 region```
 
 ## Second step
-Navigating to AmazonCodeCommitrepository tab anc checking java-web-app and making sure it has been committed to master branch.
+Navigating to AmazonCodeCommitrepository tab and checking java-web-app and making sure it has been committed to master branch.
 
 ![Alt text](1.png)
 
 ## Third Step
 
-Go to the codeguru repositories and click on associate repository and run analysis
+Go to the codeguru repositories and click on ``` Associate Repository ``` and run analysis
 
 Select AWS Code Commit and give repository location as java-web-app and select source branch as master
 
