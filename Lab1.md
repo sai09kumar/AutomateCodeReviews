@@ -41,6 +41,9 @@ In this lab step, you'll push all the new code to the nearly-empty CodeCommit re
 
 Navigate to 34.216.63.131:8080 in your browser. 
 
+![image](https://github.com/sai09kumar/AutomateCodeReviews/assets/124625853/68fd4b60-07f6-4dc5-9be6-32c576f21be4)
+
+
 Note: This is the IP of an EC2 instance that can be found in the EC2 console.
 
 Click the file icon in the top left to open the file tree:
