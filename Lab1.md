@@ -37,6 +37,8 @@ Select AWS Code Commit and give repository location as java-web-app and select s
 
 ## Fourth Step
 
+In this lab step, you'll push all the new code to the nearly-empty CodeCommit repository, to simulate triggering a CodeGuru review.
+
 Navigate to 34.216.63.131:8080 in your browser. 
 
 Note: This is the IP of an EC2 instance that can be found in the EC2 console.
@@ -52,6 +54,10 @@ git commit -m "trigger a CodeGuru analysis by pushing Java code"
 git push origin trigger_branch
 
 ``````
+
+This will create a Git commit that includes all the Java files in a branch called trigger_branch, so that you can make a pull request in CodeCommit. Since CodeGuru analyses are triggered by pull requests, this is what will trigger a CodeGuru analysis.
+
+
 ![Alt text](3.png)
 
 ![Alt text](4.png)
