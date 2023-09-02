@@ -22,7 +22,8 @@ Enviornment After
 Setting up the lab and selecting the ``` US West (Oregon) us-west-2 region```
 
 ## Second step
-Navigating to AmazonCodeCommitrepository tab and checking java-web-app and making sure it has been committed to master branch.
+Navigating to AmazonCodeCommitrepository tab and checking java-web-app and making sure readme file has been committed to master branch.
+and in next step codeguru will analyze the code.
 
 ![Alt text](1.png)
 
