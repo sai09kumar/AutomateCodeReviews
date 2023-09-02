@@ -77,7 +77,7 @@ You may need to scroll down the page to find the DockerServlet.java file changes
 
 Scroll down to line 60 to see an example of a comment from CodeGuru Reviewer.
 
-[image](https://github.com/sai09kumar/AutomateCodeReviews/assets/124625853/88a07dc8-de4f-4f71-8a94-02fbfd912ebf)
+![image](https://github.com/sai09kumar/AutomateCodeReviews/assets/124625853/88a07dc8-de4f-4f71-8a94-02fbfd912ebf)
 
 
  
